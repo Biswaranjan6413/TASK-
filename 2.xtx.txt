@@ -1,0 +1,9 @@
+public class name{
+public static voidmain(string[] args){
+void swapping (int a, int b);
+a =a-b//7
+b =a+b//17
+a =b-a//10
+println (a);println (b);
+}
+}
